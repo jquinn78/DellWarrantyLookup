@@ -13,7 +13,6 @@
  * 
  * TODO: Figure out how to pass country code from the warranty API to get the actual country and display the country
  *       instead of the country code.
- * test
  */
 
 using System;
