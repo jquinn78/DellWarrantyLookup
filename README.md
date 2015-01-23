@@ -1,6 +1,6 @@
 # DellWarrantyLookup
 
-The tool is intended to look up Dell service tags. Currently the tool only supports one service tag at a time.
+The tool is intended to look up Dell service tags. The tool only supports entry of one service tag at a time.
 
 # Requirements
 Windows: .Net Framework 4.0
@@ -20,7 +20,7 @@ Linux: Mono
 4. Enter the Dell Warranty
 
 # Future Planned Features
-1. Add support for multiple service tags
-2. Convert the country code
+1. Add support for entry of multiple service tags.
+2. Convert the country code into country.
 
 
