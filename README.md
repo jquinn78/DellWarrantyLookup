@@ -4,6 +4,7 @@ The tool is intended to look up Dell service tags. Currently the tool only suppo
 
 # Requirements
 Windows: .Net Framework 4.0
+
 Linux: Mono
 
 #Usage Instructions
