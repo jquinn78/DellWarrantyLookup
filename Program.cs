@@ -26,7 +26,13 @@ the specific language governing permissions and limitations under the License.
  * 
  * TODO: Figure out how to pass country code from the warranty API to get the actual country and display the country
  *       instead of the country code.
+ * 
+ * Api Keys
+ * 1adecee8a60444738f280aad1cd87d0e
+ *d676cf6e1e0ceb8fd14e8cb69acd812d
+ *849e027f476027a394edd656eaef4842
  */
+
 
 using System;
 using System.Net;
@@ -47,7 +53,8 @@ namespace DellWarranty
 		{
 
 			string st; //service tag
-			string apikey = "1adecee8a60444738f280aad1cd87d0e"; //apikey
+			//string apikey = "1adecee8a60444738f280aad1cd87d0e"; //apikey
+			string apikey = "d676cf6e1e0ceb8fd14e8cb69acd812d";
 
 			while (true) {
 				//Get Service Tag from Console
